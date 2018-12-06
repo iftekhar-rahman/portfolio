@@ -1,0 +1,33 @@
+
+/***********************************************************
+
+Chnage the "background-color", "color" and "border-color"
+
+************************************************************/
+
+/*=================background-color======================*/
+.site-preloader, .slicknav_nav, input[type="submit"], button[type="submit"], .owl-dots div.active, .header-right a i.fa-facebook, .header-right a i.fa:hover, .boxed-btn, .services-title, .single-servce:hover .service-icon, ul.portfolio-menu li.active:after, .hover-icons i.fa:hover, .team-bottom-area, .social-links a:hover, .scroll-top-btn:hover {
+
+	background-color: #f1505b;
+
+}
+
+/*=================color======================*/
+.owl-nav div:hover, .is-sticky .mainmenu ul li.active a, .logo a:hover h2, .mainmenu ul li:hover a, .boxed-btn:hover, ul#check-list li:before, .service-icon, .single-servce h4, .hover-icons i.fa, .dark-overlay h6, .team-member-text h4, .blog-meta i.fa, .work-btn a i.fa, ul.portfolio-menu li.active{
+
+	color: #f1505b;
+
+}
+
+/*=================border-color======================*/
+input[type="text"]:focus, input[type="email"]:focus, textarea:focus, .owl-nav div:hover, .boxed-btn, .boxed-btn:hover, .service-icon, .social-links a:hover{
+
+	border-color: #f1505b;
+	
+}
+.services-title:after, .single-servce:hover .service-icon:after{
+	border-top-color: #f1505b;
+}
+.team-bottom-area:after{
+	border-bottom-color: #f1505b;
+}
